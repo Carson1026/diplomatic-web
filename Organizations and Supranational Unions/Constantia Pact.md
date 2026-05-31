@@ -1,0 +1,33 @@
+Members:
+* [[Kingdom of West Sayville]]
+* [[Elmwycke]]
+* [[Republic of Avalonia]]
+* [[Empire of Qaflana]]
+* [[Desert District]]
+* [[Principality of Sancratosia]]
+* [[High Kingdom of Mediolaurentia]]
+
+Former Members:
+* [[Kingdom of Owosia]]
+* [[Union of Garuda]]
+* [[Kingdom of Dominel]]
+* [[Republic of Ardenturia]]
+* [[Misberian Confederacy]]
+* [[Kingdom of Ikonia]]
+* [[Maritime Republic of The Damariscotta]]
+* [[People's Republic of Adonia]]
+* [[Republic of Caelesta]]
+* [[Plushunia]]
+* [[Allied States of America]]
+* [[Kingdom of Atiera]]
+* [[Kingdom of Novus Hierosolymis]]
+* [[Socialist Federal Union of Ponderosa Hills]]
+* [[Grand Duchy of Australis]]
+* [[Republic of Lupistan]]
+* [[Empire of Aenopia]]
+* [[Empire of Lurdentania]]
+* [[Kingdom of Northwood-Oregon]]
+* [[Principality of Galte]]
+* [[Kingdom of Atiera]]
+# References
+* [Constantia Pact](https://micronations.wiki/wiki/Constantia_Pact "Constantia Pact")

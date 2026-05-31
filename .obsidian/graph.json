@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"Bilateral Treaties/Mutual Recognition and Friendship Treaties\" -path:Meta -path:Templates  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Organizations  ",
+      "color": {
+        "a": 1,
+        "rgb": 93091
+      }
+    },
+    {
+      "query": "path:\"Bilateral Treaties\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16313512
+      }
+    },
+    {
+      "query": "path:Micronations  ",
+      "color": {
+        "a": 1,
+        "rgb": 2929779
+      }
+    },
+    {
+      "query": "path:Conventions  ",
+      "color": {
+        "a": 1,
+        "rgb": 12058624
+      }
+    },
+    {
+      "query": "path:Events  ",
+      "color": {
+        "a": 1,
+        "rgb": 13268799
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.296875,
+  "repelStrength": 12.7083333333333,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.1166089157945656,
+  "close": true
+}

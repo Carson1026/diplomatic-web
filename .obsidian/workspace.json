@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "96ffe2d5ac2493c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7683abe636003f20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b6152ab6a8c0776",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b46e7bc7f54cb608",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd1f575e9d1ece76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94cb3158d7dcddcc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "90fcd51aaf29e046",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#016ba3",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "86936cd389f3bf02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "a9bbd9002e5c728b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5347c989a8aeb1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62f50038f3a2eb40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f248822435ffb7ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8a96cba8ae9fbb0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "95c253761c343055",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6687c7c4002c8467",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3b6152ab6a8c0776",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Wrythe Convention.md",
+    "Meta.md",
+    "Meta",
+    "Meta/Templates/Convention Template.md",
+    "Edgbaston Convention.md",
+    "Meta/Info/Tags.md",
+    "Meta/Info/Colors.md",
+    "Conventions/Berard-Malloy Convention on Territorial Disputes.md",
+    "Conventions/Convention Against Extra-Micronational Coercion in Micronationalism.md",
+    "Conventions/La Salle Convention.md",
+    "Micronations/Kingdom of New Antrim.md",
+    "Micronations/State of Samizdat.md",
+    "Micronations/Dissolved Micronations/Republic of Jayditaria.md",
+    "Micronations/Kingdom of Pontchartrain-Maurepas.md",
+    "Micronations/Dissolved Micronations/Antonian Empire.md",
+    "Micronations/Republic of Ardenturia.md",
+    "Micronations/Second Crowned Republic of Yu-Xia.md",
+    "Micronations/United Arsavian Socialist Republics.md",
+    "Micronations/Grand Duchy of Australis.md",
+    "Unified Royal States of Australis.md",
+    "Organizations and Supranational Unions/Constantia Pact.md",
+    "Micronations/Dissolved Micronations/Commonwealth of Naveria.md",
+    "Micronations/Principality of Posaf.md",
+    "Organizations and Supranational Unions/Berard-Malloy Mediation Committee.md",
+    "Micronations/Kingdom of Northwood-Oregon.md",
+    "Bilateral Treaties/Mutual Recognition and Friendship Treaties/Mutual Recognition Treaty Between the Republic of Floriland and the Kingdom of Northwood Oregon.md",
+    "Untitled.canvas",
+    "Bilateral Treaties/Mutual Recognition and Friendship Treaties",
+    "Micronations/Inactive Micronations",
+    "Events",
+    "Meta/Info",
+    "Organizations and Supranational Unions/Dissolved Organizations",
+    "Micronations/Dissolved Micronations",
+    "Micronations/Sub-Micronational or Dependent Entities",
+    "Meta/Templates",
+    "Conventions"
+  ]
+}
