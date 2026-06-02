@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b6152ab6a8c0776",
+  "active": "94cb3158d7dcddcc",
   "lastOpenFiles": [
     "Events/Turtle-Island Dispute.md",
     "quartz/content/Kingdom of Scynja.md",
