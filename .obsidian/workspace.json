@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wrythe Convention.md",
+                "file": "Conventions/Wrythe Convention.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -194,13 +194,16 @@
   },
   "active": "3b6152ab6a8c0776",
   "lastOpenFiles": [
+    "Federal Commonwealth of Sirocco.md",
+    "Conventions/Edgbaston Convention.md",
+    "Conventions/Wrythe Convention.md",
+    "Grand Duchy of Navārdia.md",
+    "Kingdom of Brienia.md",
     "Democratic Republic of Skokholm and the Baffin Islands.md",
-    "Wrythe Convention.md",
     "People's Federation of Quebec.md",
     "Kingdom of Vendsyssel.md",
     "Kingdom of Baustralia.md",
     "Principality of Montescano.md",
-    "Federal Commonwealth of Sirocco.md",
     "Republic of Litvania.md",
     "Imperium of the Americas.md",
     "State of Gradonia.md",
@@ -212,7 +215,6 @@
     "Virgan Republic.md",
     "Community of Landashir.md",
     "Austrovian Empire.md",
-    "Edgbaston Convention.md",
     "Micronations/Commonwealth of Wenonah.md",
     "Events/Turtle-Island Dispute.md",
     "quartz/content/Kingdom of Scynja.md",
@@ -238,8 +240,6 @@
     "quartz/public/Vishwamitra.html",
     "quartz/public/Untitled.html",
     "quartz/content/Sovereign State of Nenggog.md",
-    "quartz/content/Roscami Federation.md",
-    "quartz/content/Republic of Slavtria.md",
     "quartz/docs/Canvas.canvas",
     "Untitled.canvas"
   ]

@@ -57,7 +57,10 @@ Signatories:
 * [[Kingdom of Vendsyssel]]
 * [[People's Federation of Quebec]]
 * [[Democratic Republic of Skokholm and the Baffin Islands]]
-* 
+* [[Kingdom of Brienia]]
+* [[Grand Duchy of Navārdia]]
+* [[Free Nation of New Athens]]
+Continued from 54
 
 
 Former signatories:
