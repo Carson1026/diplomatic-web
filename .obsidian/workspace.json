@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,8 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94cb3158d7dcddcc",
+  "active": "3b6152ab6a8c0776",
   "lastOpenFiles": [
+    "Events/Turtle-Island Dispute.md",
+    "quartz/content/Kingdom of Scynja.md",
+    "Micronations/Dissolved Micronations/Kingdom of Scynja.md",
     "quartz/public/static/giscus/light.css",
     "quartz/public/static/giscus/dark.css",
     "quartz/public/static/og-image.png",
@@ -200,7 +204,6 @@
     "quartz/public/Wenlandic-Free-State.html",
     "quartz/public/Vishwamitra.html",
     "quartz/public/Untitled.html",
-    "quartz/public/Untitled-2.html",
     "quartz/content/Sovereign State of Nenggog.md",
     "quartz/content/Roscami Federation.md",
     "quartz/content/Republic of Slavtria.md",
@@ -224,8 +227,6 @@
     "quartz/content/Merrimack Principality.md",
     "quartz/content/Maritime Republic of The Damariscotta.md",
     "quartz/content/Kingdom of Wyvern.md",
-    "quartz/content/Kingdom of West Sayville.md",
-    "quartz/content/Kingdom of Sycamore.md",
     "quartz/docs/Canvas.canvas",
     "Untitled.canvas"
   ]
