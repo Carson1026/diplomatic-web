@@ -35,7 +35,30 @@ Signatories:
 * [[Gymnasium State]]
 * [[Kingdom of Jupiter]]
 * [[United Sartontian Empire]]
-Note for editor: Continue at Number 29.
+* [[Commonwealth of Wenonah]]
+* [[Austrovian Empire]]
+* [[Community of Landashir]]
+* [[Virgan Republic]]
+* [[Kingdom Of East Caledonia]]
+* [[Federal Republic of Hasanistan]]
+* [[Kingdom of Sorrenia]]
+* [[Kingdom of Ikonia]]
+* [[Aenderese Republic]]
+* [[Kingdom of Auvenum]]
+* [[Kingdom of Hrafnarfjall]]
+* [[State of Gradonia]]
+* [[Imperium of the Americas]]
+* [[Confederation of Mahuset]]
+* [[Republic of Litvania]]
+* [[Federal Commonwealth of Sirocco]]
+* [[Principality of Montescano]]
+* [[Kingdom of Baustralia]]
+* [[Empire of Aenopia]]
+* [[Kingdom of Vendsyssel]]
+* [[People's Federation of Quebec]]
+* [[Democratic Republic of Skokholm and the Baffin Islands]]
+* 
+
 
 Former signatories:
 * [[Phyrrian Tribes]] (Dissolved)
