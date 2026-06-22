@@ -11,24 +11,10 @@
             "id": "3b6152ab6a8c0776",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conventions/Wrythe Convention.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Wrythe Convention"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -195,9 +181,11 @@
   },
   "active": "3b6152ab6a8c0776",
   "lastOpenFiles": [
+    "Organizations and Supranational Unions/High Kingdom of Mediolaurentia.md",
+    "Organizations and Supranational Unions/Constantia Pact.md",
+    "Conventions/Wrythe Convention.md",
     "Federal Commonwealth of Sirocco.md",
     "Conventions/Edgbaston Convention.md",
-    "Conventions/Wrythe Convention.md",
     "Grand Duchy of Navārdia.md",
     "Kingdom of Brienia.md",
     "Democratic Republic of Skokholm and the Baffin Islands.md",
@@ -219,7 +207,6 @@
     "Micronations/Commonwealth of Wenonah.md",
     "Events/Turtle-Island Dispute.md",
     "quartz/content/Kingdom of Scynja.md",
-    "Micronations/Dissolved Micronations/Kingdom of Scynja.md",
     "quartz/public/static/giscus/light.css",
     "quartz/public/static/giscus/dark.css",
     "quartz/public/static/og-image.png",
@@ -240,7 +227,6 @@
     "quartz/public/Wenlandic-Free-State.html",
     "quartz/public/Vishwamitra.html",
     "quartz/public/Untitled.html",
-    "quartz/content/Sovereign State of Nenggog.md",
     "quartz/docs/Canvas.canvas",
     "Untitled.canvas"
   ]
